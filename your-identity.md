@@ -2,7 +2,7 @@
 description: Your appearance and traits.
 ---
 
-# You as the staff
+# Your identity
 
 You can choose from three types of staff. While each is described separately, feel free to mix and match to fit your preferred style or the story you want to tell. From this point forward, "you" refers to the staff whose story you are telling.
 
@@ -16,6 +16,8 @@ You are a magical staff for wizards, hedge witches, and others who practice magi
 You are a shepherd's crook used largely by herders, farmers, and others who tend livestock.
 
 Now choose three traits to describe yourself, either from the table below or from your imagination. If you would like to impose some randomness, roll a couple D20s \(20-sided dice\) and select three options from the corresponding rows in the table below.
+
+
 
   
 &lt;!--table  
