@@ -36,3 +36,31 @@ Consider what your keeper was shepherding. People, sheep, cats, flying pigs, wal
 
     Your keeper loves to create things. Perhaps they are a painter, musician, writer, or actor. How does their art integrate with their duties as a shepherd?
 
+13. **Military**
+
+    Your keeper provides security for the geater good. Perhaps they are an army general, a cook for the cavalry, or a member of the police force or local watch. What is your role in your keeper's duties?
+
+14. **Trader**
+
+    Your keeper engages in commerce. Perhaps they are a business owner, ship captain, merchant, or member of a local gang. What do they trade or sell? How is that connected to your duties?
+
+15. **Artisan**
+
+    Your keeper is renouned for their craft. Perhaps they are a weaver, tanner, carpenter, or cheese maker. What is their craft? How is it connected to shepherding?
+
+16. **Artificial intelligence**
+
+    Your keeper was built. Perhaps it is a golem, android, or computer program. Who created your keeper and for what purpose? Is your current use what your keeper's creator would have intended?
+
+17. **Revolutionary**
+
+    Your keeper wants to change the world. Perhaps they are a protestor, dissident, prophet, or ahead of their time. What do they stand for? How will they use you to further their cause?
+
+18. **Athlete**
+
+    Your keeper loves exercise. They may be on a sports team or may prefer solo activities. They may practice their sport in the open or privately. What sport do they practice and what drives them to excel at it? Are you a piece of their sports equipment?
+
+19. **Lay-about**
+
+    Your keeper is lazy. They may have been born into wealth or be the youngest child from whom nothing was expected. How do they spend their time and what part do you play in it?
+
