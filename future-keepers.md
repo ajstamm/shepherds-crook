@@ -14,15 +14,15 @@ Consider what your keeper was shepherding. People, sheep, cats, flying pigs, wal
 6. **Healer** Your keeper served others. Perhaps they were a midwife, doctor, hedge witch, or apprentice. How were they regarded by their community?
 7. **Visionary**
 
-    Your keeper notices patterns and predicts the future. Perhaps they are a fortune teller, charlatan, scryer, or economist. Do they work to benefit the community or themselves?
+   Your keeper notices patterns and predicts the future. Perhaps they are a fortune teller, charlatan, scryer, or economist. Do they work to benefit the community or themselves?
 
 8. **Magical creature**
 
-    Your keeper is not human. Perhaps they are an imp, dryad, demon, or talking animal. Are they accepted, common, or reviled in the community?
+   Your keeper is not human. Perhaps they are an imp, dryad, demon, or talking animal. Are they accepted, common, or reviled in the community?
 
 9. **Academic**
 
-    Your keeper values education. Perhaps they are a scientist, researcher, or teacher. Who does your keeper teach or assist? Are they part of a secret society or open academy?
+   Your keeper values education. Perhaps they are a scientist, researcher, or teacher. Who does your keeper teach or assist? Are they part of a secret society or open academy?
 
 10. **Collector**
 
