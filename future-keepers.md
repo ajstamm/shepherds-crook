@@ -7,7 +7,7 @@ description: A lengthy list of possible keepers.
 Consider what your keeper is shepherding. People, sheep, cats, flying pigs, walking trees, or something else? Each keeper type includes a range of suggestions. At least one of the suggestions for each keeper type should be suitable for the type of staff you chose to be.
 
 1. **Peasant** Your keeper came from humble beginnings. Perhaps they are a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Are you a tool of their labor, a key to their salvation, or both?
-2. **Noble** Your keeper is high-born. Perhaps they are noble, royal, or a courtier. Are you a badge of their rank or a tool of their punishment?
+2. **Noble** Your keeper is high-born. Perhaps they are titled, a royal, or a courtier. Are you a symbol of their rank or of their punishment?
 3. **Religious** Your keeper is a member of a religious order. Perhaps they are a lowly monk or nun toiling in the fields, or someone more highly placed, like an abbot or priestess. What purpose do you serve for them?
 4. **Rogue** Your keeper lives outside the law. Perhaps they are an outlaw or thief outwitting their would-be captors, or a well-placed business owner or civil servant for whom the law does not apply. How do you help them evade capture?
 5. **Hermit** Your keeper enjoys solitude. Perhaps they live on the edge of society, or in the wilderness, tending their flock. Are they isolated by choice or does their profession or reputation require it?
