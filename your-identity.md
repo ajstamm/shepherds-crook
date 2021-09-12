@@ -7,7 +7,7 @@ description: Your appearance and traits.
 You can choose from three types of staff. While each is described separately, feel free to mix and match to fit your preferred style or the story you want to tell. From this point forward, "you" refers to the staff whose story you are telling.
 
 **Staff of office**  
-You are a symbolic staff for rulers, prophets, and religious leaders.
+You are a symbolic staff for rulers, prophets, and other religious, military, and community leaders.
 
 **Staff of power**  
 You are a magical staff for wizards, hedge witches, and others who practice magic.
