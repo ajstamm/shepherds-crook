@@ -4,7 +4,9 @@ description: Key events during your time with each keeper.
 
 # Events
 
-After describing each new keeper, select an event from the list provided. When you have completed one event, if you would like to explore your keeper further, feel free to return to the list to select a second or third event. After you resolve each event, change your identity in some small way. Add or remove or change a trait, but make sure you always have three to seven traits, or change your appearance somehow.
+After describing each new keeper, select an event from the list provided. When you have completed one event, if you would like to explore your keeper further, feel free to return to the list to select a second or third event. 
+
+After you resolve each event, change your identity in some small way. Add or remove or change a trait, but make sure you always have three to seven traits, or change your appearance somehow.
 
 _Recommendation: Each event for any given keeper should be different. Do not select more than three events for any one keeper and do not select the same event type twice in a row. For any six events, try to include each event type at least once._
 
