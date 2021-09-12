@@ -6,9 +6,13 @@ description: Key events during your time with each keeper.
 
 After describing each new keeper, select an event from the list provided. When you have completed one event, if you would like to explore your keeper further, feel free to return to the list to select a second or third event. 
 
-After you resolve each event, change your identity in some small way. Add or remove or change a trait, but make sure you always have three to seven traits, or change your appearance somehow.
+As you resolve each event, your world or identity will change in some small way. You can:
 
-_Recommendation: Each event for any given keeper should be different. Do not select more than three events for any one keeper and do not select the same event type twice in a row. For any six events, try to include each event type at least once._
+* Add, remove, or change a trait. Make sure you always have three to seven traits.
+* Change your appearance somehow. Modify your drawing accordingly.
+* Change some small thing about your world, environment, or reality.
+
+_Recommendations: Each event type for any one keeper should be different. Do not select more than three events one keeper and do not select the same event type twice in a row. For any six events, try to include each event type at least once._
 
 **Crisis**  
 The crisis may be an internal or external threat. How does your keeper use you to resolve it? How are you affected by it? Choose from the list below or roll a D6 and select an element from the corresponding number.
@@ -41,7 +45,7 @@ Pastoral care is important for any shepherd and can take many forms. What are yo
 6. Mental health: of yourself, your keeper, or members of the community
 
 **Observation**  
-Sometimes, nothing of particular interest happens. Take some time to describe one aspect of your home or community. What are your and your keeper's rolesin the community? How do you both feel about it? Choose from the list below or roll a D6 and select an element from the corresponding number.
+Sometimes, nothing of particular interest happens. Take some time to describe one aspect of your home or community. What are your and your keeper's roles in the community? How do you both feel about it? Choose from the list below or roll a D6 and select an element from the corresponding number.
 
 1. Environment: habitat, community size, technological advancement
 2. Home: where and with whom your keeper lives

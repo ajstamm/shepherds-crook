@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Preparing to play](preparing-to-play.md)
 * [Key concepts in the Lost and Found system](key-concepts-in-the-lost-and-found-system.md)
-* [Your identity](your-identity.md)
+* [You as the staff](your-identity.md)
 * [Your origins](your-origins.md)
 * [Key questions](key-questions.md)
 * [Events](events.md)
