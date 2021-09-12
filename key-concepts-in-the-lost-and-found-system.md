@@ -12,7 +12,7 @@ These are the elements you need to know to play Shepherd's Crook.
 The object whose story you are telling. The staff cannot die, but may change as it passes from one keeper to another. You are the staff.
 
 **Keeper**  
-The staff's owner or wielder. The staff can only act through the wielder, not on its own. Each keeper represents a different chapter in the staff's story.
+The staff's owner or wielder. The staff can only act through the keeper, not on its own. Each keeper represents a different chapter in the staff's story.
 
 **Rest**  
 You can choose whether the staff passes directly from one keeper to another or whether, sometimes, it is set aside and rests until the next keeper comes along. How long it rests and how its new weilder obtains it are up to you.
