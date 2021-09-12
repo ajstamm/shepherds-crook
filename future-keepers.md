@@ -6,6 +6,8 @@ description: A lengthy list of possible keepers.
 
 Consider what your keeper is shepherding. People, sheep, cats, flying pigs, walking trees, or something else? Each keeper type includes a range of suggestions. At least one of the suggestions for each keeper type should be suitable for the type of staff you chose to be.
 
+_Recommendation: If you are undecided or would like to impose some randomness, roll a D20 and select an element from the corresponding number._
+
 1. **Peasant** Your keeper came from humble beginnings. Perhaps they are a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Are you a tool of their labor, a key to their salvation, or both?
 2. **Noble** Your keeper is high-born. Perhaps they are titled, a royal, or a courtier. Are you a symbol of their rank or of their punishment?
 3. **Religious** Your keeper is a member of a religious order. Perhaps they are a lowly monk or nun toiling in the fields, or someone more highly placed, like an abbot or priestess. What purpose do you serve for them?
@@ -63,4 +65,8 @@ Consider what your keeper is shepherding. People, sheep, cats, flying pigs, walk
 19. **Lay-about**
 
     Your keeper is lazy. They may have been born into wealth or be the youngest child from whom nothing was expected. How do they spend their time and what part do you play in it?
+
+20. **Sycophant**
+
+    Your keeper is a follower who lives to please. Perhaps they are a minion, leech, puppet, or lackey. Who does your keeper follow? Are you a tool of obedience or source of discontent?
 
