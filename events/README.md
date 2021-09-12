@@ -8,10 +8,10 @@ After describing each new keeper, select an event from the list provided. When y
 
 Possible events include:
 
-1. Crisis
-2. Visitor
-3. Pastoral care
-4. Observation
+1. [Crisis](https://astamm.gitbook.io/shepherd-s-crook/events/crisis)
+2. [Visitor](https://astamm.gitbook.io/shepherd-s-crook/events/visitor)
+3. [Pastoral care](https://astamm.gitbook.io/shepherd-s-crook/events/pastoral-care)
+4. [Observation](https://astamm.gitbook.io/shepherd-s-crook/events/observation)
 
 As you resolve each event, your world or identity will change in some small way. You can:
 
