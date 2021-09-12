@@ -65,7 +65,7 @@ td
 | 6 | enlightened | cursed | devious | corrosive |
 | 7 | folksy | divine | eccentric | doomed |
 | 8 | gentle | driven | haunted | draining |
-| 9 | healing | eager | impatient | ecclectic |
+| 9 | healing | eager | impatient | eclectic |
 | 10 | humble | elegant | isolating | guilty |
 | 11 | inspiring | horrific | liberating | mischievous |
 | 12 | judging | insane | manipulative | parasitic |
