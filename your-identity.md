@@ -80,5 +80,5 @@ td
 
 After selecting your traits, draw your appearance. Be as silly or serious, simple or ornate, cartoonish or realistic as you would like. Consider whether you have been embellished with carvings, paint, jewels, beads, metal, or other adornments. 
 
-_Recommendation: You need not draw well or spend much time on your illustration. If you prefer to begin with an outline, download the_ [_image of suggested outlines_](https://astamm.gitbook.io/shepherd-s-crook/shepherds_crook_staffs.png)_. Feel free to add colors and descriptive words as well._
+_Recommendation: You need not draw well or spend much time on your illustration. If you prefer to begin with an image, download these_ [_suggested staff outlines_](https://github.com/ajstamm/writing/blob/main/shepherds_crook_staffs.png?raw=true)_. Feel free to add colors and descriptive notes as well._
 
