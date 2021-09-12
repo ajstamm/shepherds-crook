@@ -8,6 +8,6 @@
 * [Key questions](key-questions.md)
 * [Events](events.md)
 * [Rest](rest.md)
-* [An ending of sorts](an-ending-of-sorts.md)
 * [Future keepers](future-keepers.md)
+* [An ending of sorts](an-ending-of-sorts.md)
 
