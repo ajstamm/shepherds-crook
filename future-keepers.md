@@ -1,22 +1,10 @@
 ---
-description: 'Your origin story, creator, and first keeper.'
+description: A lengthy list of possible keepers.
 ---
 
-# Your origins
+# Future keepers
 
-### Your creator
-
-After you have described your appearance and traits, consider your origins.
-
-1. Where were you made, carved, or decorated? A forge, forest, farm, or somewhere else?
-2. Who created you? Are they well known for their craft? Were they commissioned?
-3. Why were you created? What was your creator's motivation? What was your intended purpose?
-
-### Your first keeper
-
-Choose your first keeper from the following list. Each keeper type includes a range of suggestions. At least one of the suggestions for each keeper type should be suitable for the type of staff you chose to be. Consider what your keeper was shepherding. People, sheep, cats, flying pigs, walking trees, or something else?
-
-_Recommendation: If you are not sure what to choose, roll a D6 \(6-sided die\) and select the resulting number._ 
+Consider what your keeper was shepherding. People, sheep, cats, flying pigs, walking trees, or something else? Each keeper type includes a range of suggestions. At least one of the suggestions for each keeper type should be suitable for the type of staff you chose to be.
 
 1. **Peasant** Your keeper came from humble beginnings. Perhaps they were a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Were you a tool of their labor, a key to their salvation, or both?
 2. **Noble** Your keeper was high-born. Perhaps they were a noble, royal, or well-placed military officer. Were you a badge of their rank or a tool of their punishment?

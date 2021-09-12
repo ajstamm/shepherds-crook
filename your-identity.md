@@ -2,7 +2,7 @@
 description: Your appearance and traits.
 ---
 
-# You as the staff
+# Your identity
 
 You can choose from three types of staff. While each is described separately, feel free to mix and match to fit your preferred style or the story you want to tell. From this point forward, "you" refers to the staff whose story you are telling.
 
@@ -15,7 +15,9 @@ You are a magical staff for wizards, hedge witches, and others who practice magi
 **Staff of shepherding**  
 You are a shepherd's crook used largely by herders, farmers, and others who tend livestock.
 
-Choose three traits to describe yourself, either from the table below or from your imagination. If you would like to impose some randomness, roll a couple D20s \(20-sided dice\) and select three options from the corresponding rows in the table below.
+Now choose three traits to describe yourself, either from the table below or from your imagination. If you would like to impose some randomness, roll a couple D20s \(20-sided dice\) and select three options from the corresponding rows in the table below.
+
+
 
   
 &lt;!--table  
@@ -63,11 +65,11 @@ td
 | 4 | delicate | controlling | cryptic | conservative |
 | 5 | discerning | curious | destined | content |
 | 6 | enlightened | cursed | devious | corrosive |
-| 7 | folksy | divine | eccentric | doomed |
-| 8 | gentle | driven | haunted | draining |
-| 9 | healing | eager | impatient | eclectic |
-| 10 | humble | elegant | isolating | guilty |
-| 11 | inspiring | horrific | liberating | mischievous |
+| 7 | folksy | divine | doomed | draining |
+| 8 | gentle | driven | eccentric | ecclectic |
+| 9 | healing | eager | haunted | guilty |
+| 10 | humble | elegant | impatient | liberating |
+| 11 | inspiring | horrific | isolating | mischevious |
 | 12 | judging | insane | manipulative | parasitic |
 | 13 | loyal | ornery | obedient | quirky |
 | 14 | mesmerizing | protective | patient | radical |
@@ -78,7 +80,5 @@ td
 | 19 | terrifying | vengeful | sturdy | vampiric |
 | 20 | unadorned | wise | unfeeling | wary |
 
-After selecting your traits, draw your appearance. Be as silly or serious, simple or ornate, cartoonish or realistic as you would like. Consider whether you have been embellished with carvings, paint, jewels, beads, metal, or other adornments. 
-
-_Recommendation: You need not draw well or spend much time on your illustration. If you prefer to begin with an image, download these_ [_suggested staff outlines_](https://github.com/ajstamm/writing/blob/main/shepherds_crook_staffs.png?raw=true)_. Feel free to add colors and descriptive notes as well._
+After selecting your traits, draw your appearance. Feel free to be as silly or serious, simple or ornate, cartoonish or realistic as you would like. You need not draw well or spend much time on this step. Feel free to add colors and descriptive words as well. Consider whether you have been embellished with carvings, paint, jewels, beads, metal, or other adornments.
 

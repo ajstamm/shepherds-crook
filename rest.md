@@ -13,13 +13,7 @@ After your final event with each keeper, describe how you were parted from them.
 5. You were lost. Were you traveling? Was your keeper careless? How were you found again?
 6. You were placed in storage or catalogued and placed on display. Why were you set aside? How were you returned to service?
 
-Change your world or identity in a major way. Perform at least two of the following:
+Change your identity in a major way \(appearance, purpose, trait, or name, or some combination thereof\) or change an important aspect of your world. Decide how long you will be dormant between keepers. Minutes? Weeks? Years? Centuries?
 
-* Add, remove, or change a trait. Make sure you always have three to seven traits.
-* Change your appearance somehow. Modify your drawing accordingly.
-* Change a major thing about your world, environment, or reality.
-
-Decide how long you will be dormant between keepers. Minutes? Weeks? Years? Centuries? Close your eyes and sit in silence for one to five minutes depending on the length of your dormancy. 
-
-_Recommendation: Take a break and do something else, or wait until the next day, before you return to the keeper list to select a new keeper._
+Close your eyes and sit in silence for one to five minutes depending on the length of your dormancy. Take a break and do something else, or wait until the next day, before you return to the keeper list to select a new keeper.
 

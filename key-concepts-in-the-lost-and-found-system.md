@@ -4,9 +4,7 @@ description: Important elements for the game.
 
 # Key concepts in the Lost and Found system
 
-### Elements
-
-These are the elements you need to know to play Shepherd's Crook.
+These are the concepts you need to know to play Shepherd's Crook.
 
 **Staff**  
 The object whose story you are telling. The staff cannot die, but may change as it passes from one keeper to another. You are the staff.
@@ -25,20 +23,13 @@ Every time your staff passes to a new keeper, it changes in some way, perhaps du
 
 ### Game structure
 
-This is the general flow of the game.
+Beginning: Describe your staff's origin story, creator, and first keeper \(if they are not your creator\).
 
-**Beginning**  
-Describe your staff's origin story, creator, and first keeper \(if they are not your creator\).
+Chapters: Each chapter follows a separate keeper. _I recommend writing one keeper per sitting or day in as much or as little detail as you would like, but the choice is yours._
 
-**Chapters**  
-Each chapter follows a separate keeper, described in this order. 
+* Keeper: Describe who they are and how they acquired you.
+* Event: Describe one notable event in which you and your keeper were involved.
+* Rest: Describe how you and your keeper were parted and note how long you waited for your next keeper.
 
-* Keeper: Describe who they are and how they acquired the staff.
-* Event: Describe one to three notable events in which the staff and keeper were involved.
-* Rest: Describe how the staff and keeper were parted, how the staff's time with the keeper changed it, and how long it waited for your next keeper.
-
-_Recommendation: Write one keeper per sitting or day in as much or as little detail as you would like; the choice is yours._
-
-**Ending**  
-Spend some time in quiet contemplation. Describe the staff's feelings and identity after its final keeper.
+Ending: Spend some time in quiet contemplation. Describe your feelings and identity after your final keeper.
 
