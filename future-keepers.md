@@ -36,11 +36,11 @@ _Recommendation: If you are undecided or would like to impose some randomness, r
 
    Your keeper likes collecting things. Perhaps they are a hoarder, museum curator, or archivist. What do they collect? Do they share their collection with the community?
 
-8. **Healer** Your keeper served others. Perhaps they were a midwife, doctor, hedge witch, or apprentice. How were they regarded by their community?
-9. **Hermit** Your keeper enjoyed solitude. Perhaps they lived on the edge of society, or in the wilderness, tending their flocks. Were they isolated by choice or did their profession or reputation require it?
+8. **Healer** Your keeper serves others. Perhaps they are a midwife, doctor, hedge witch, or apprentice. How were they regarded by their community?
+9. **Hermit** Your keeper enjoys solitude. Perhaps they live on the edge of society, or in the wilderness, tending their flocks. Are they isolated by choice or because their profession or reputation requires it?
 10. **Lay-about**
 
-    Your keeper is lazy. They may have been born into wealth or be the youngest child from whom nothing was expected. How do they spend their time and what part do you play in it?
+    Your keeper is lazy. They may have been born into wealth or be the youngest child from whom nothing is expected. How do they spend their time and what part do you play in it?
 
 11. **Magical creature**
 
@@ -50,9 +50,9 @@ _Recommendation: If you are undecided or would like to impose some randomness, r
 
     Your keeper provides security for the greater good. Perhaps they are an army general, a cook for the cavalry, or a member of the police force or local watch. What is your role in your keeper's duties?
 
-13. **Noble** Your keeper was high-born. Perhaps they were a noble, royal, or well-placed military officer. Were you a badge of their rank or a tool of their punishment?
-14. **Peasant** Your keeper came from humble beginnings. Perhaps they were a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Were you a tool of their labor, a key to their salvation, or both?
-15. **Religious** Your keeper was a member of a religious order. Perhaps they were a lowly monk or nun toiling in the fields, or someone more highly placed, like an abbot or priestess. What purpose did you serve for them?
+13. **Noble** Your keeper was high-born. Perhaps they are a noble, royal, or well-placed military officer. Are you a badge of their rank or a tool of their punishment?
+14. **Peasant** Your keeper came from humble beginnings. Perhaps they are a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Are you a tool of their labor, a key to their salvation, or both?
+15. **Religious** Your keeper is a member of a religious order. Perhaps they are a lowly monk or nun toiling in the fields, or someone highly placed, like an abbot or priestess. What purpose do you serve for them?
 16. **Revolutionary**
 
     Your keeper wants to change the world. Perhaps they are a protestor, dissident, prophet, or ahead of their time. What do they stand for? How will they use you to further their cause?
