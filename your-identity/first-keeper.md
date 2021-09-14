@@ -6,19 +6,20 @@ description: Your first companion.
 
 Consider:
 
-1. What was your keeper was shepherding? People, sheep, cats, flying pigs, walking trees, animate books, or something else? 
-2. Was your creator your first keeper?
+1. What does your keeper shepherd? People, sheep, cats, flying pigs, walking trees, animate books, or something else? 
+2. Where does your keeper live? In a town, a commune, a cave? With family, roommates, pets, alone?
+3. Is your creator your first keeper?
 
-Choose your first keeper from the following list. Each keeper type includes a range of suggestions. At least one of the suggestions for each keeper type should be suitable for the type of staff you chose to be. 
+Choose your first keeper from the following list. Each keeper type includes a range of suggestions to cater to the different staff types. 
 
 _Recommendation: If you are not sure what to choose, roll a D6 \(6-sided die\) and select the resulting number._ 
 
-1. **Healer** Your keeper served others. Perhaps they were a midwife, doctor, hedge witch, or apprentice. How were they regarded by their community?
-2. **Hermit** Your keeper enjoyed solitude. Perhaps they lived on the edge of society, or in the wilderness, tending their flocks. Were they isolated by choice or did their profession or reputation require it?
-3. **Noble** Your keeper was high-born. Perhaps they were a noble, royal, or well-placed military officer. Were you a badge of their rank or a tool of their punishment?
-4. **Peasant** Your keeper came from humble beginnings. Perhaps they were a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Were you a tool of their labor, a key to their salvation, or both?
-5. **Religious** Your keeper was a member of a religious order. Perhaps they were a lowly monk or nun toiling in the fields, or someone more highly placed, like an abbot or priestess. What purpose did you serve for them?
-6. **Rogue** Your keeper lived outside the law. Perhaps they were an outlaw or thief outwitting their would-be captors, or a well-placed business owner or civil servant for whom the law did not apply. How did you help them evade capture?
+1. **Healer** Your keeper serves others. They may be a doctor, hedge witch, or apprentice. How are they regarded by their community?
+2. **Hermit** Your keeper enjoys solitude. They may live on the edge of society or in the wilderness. Are they isolated by choice or does their profession or reputation require it?
+3. **Noble** Your keeper is high-born. Perhaps they are a noble, royal, or well-placed military officer. Are you a symbol of their rank or of their punishment?
+4. **Peasant** Your keeper came from humble beginnings. They may be a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Are you a tool of their labor, a key to their salvation, or both?
+5. **Religious** Your keeper is a member of a religious order. They may be a lowly monk toiling in the fields or a priestess overseeing a temple. What purpose do you serve for them?
+6. **Rogue** Your keeper lives outside the law. They may be an outlaw or thief outwitting would-be captors or a well-placed business owner or civil servant for whom the law does not apply. How do you help \(or hinder\) them evading capture?
 
 \*\*\*\*
 

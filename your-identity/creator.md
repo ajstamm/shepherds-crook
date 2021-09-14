@@ -4,8 +4,6 @@ description: The one who made you.
 
 # Creator
 
-
-
 After you have described your appearance and traits, consider your origins.
 
 1. Where were you made, carved, or decorated? A forge, forest, farm, or somewhere else?
