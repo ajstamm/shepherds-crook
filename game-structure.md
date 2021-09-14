@@ -14,7 +14,7 @@ Each chapter follows a separate keeper, described in this order.
 * Event: Describe one to three notable events in which the staff and keeper were involved.
 * Rest: Describe how the staff and keeper were parted, how the staff's time with the keeper changed it, and how long it waited for its next keeper.
 
-_Recommendation: Write one keeper per sitting or day in as much or as little detail as you would like; the choice is yours._
+_Recommendation: Write one keeper per sitting or day in as much or as little detail as you would like._
 
 **Ending**  
 Spend some time in quiet contemplation. Describe the staff's feelings and identity after its final keeper.
