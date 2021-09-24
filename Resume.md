@@ -2,7 +2,6 @@
 
 ## CWGs
 
-
 ### Community design
 
 * assessed usefulness of InfoUSA to calculate food deserts and food swamps and presented to group and rejected it
@@ -38,9 +37,6 @@
 
 * attended meetings
 
-
-
-
 ## Software
 
 ### GAT
@@ -58,11 +54,9 @@
 
 * began conversion to a package
 
-
 ### community design package 
 
 * see "community design" section
-
 
 ### imputation
 
@@ -70,10 +64,6 @@
 * validate Gwen's code and process
 * assessed use of hot deck (instead of cold deck) imputation and rejected it
 * rewrote method to incorporate multiple imputation results into area counts
-
-
-
-
 
 ## Projects
 
@@ -127,10 +117,7 @@
 
 * assisted in validation/selection of provided subcounty area options for CDC cancer mapping initiative
 
-
-
 ## Ongoing EPHT projects
-
 
 ### Subcounty portal (Portal 2.0)
 
@@ -156,32 +143,24 @@
 * validated SPARCS submission
 * prepared and reviewed metadata for SPARCS
 
-
-
 ## Clubs
-
 
 ### EBCoP
 
-* developed (2-3) R workshops
-* ran (how many) R workshops on (4-5) topics in conjunction with UAlbany Rockefeller College and School of Public Health
+* developed (2-3) R workshops (topics?)
+* ran (how many) R workshops on (4-5) topics in conjunction with UAlbany Rockefeller College and School of Public Health (years?)
 * organized workshops in R, ArcGIS, Python, manuscript writing as co-lead of Learning Pathways
 * posted to EBCoP blog and DOH News on events and workshops
 * helped recruit for dissertation support group
+* (future) presented at GIS day
 
 ### Toastmasters
 
-* served as VP education, pathways ambassador
+* served as VP education, pathways ambassador (years?)
 * mentored ?? new members
-* co-facilitated workshops on evaluation, ???
+* co-facilitated workshops on evaluation, pathways, ???
+* assisted planning an impromptu workshop
 * earned three certificates in leadership and public speaking
-
-
-
-
-
-
-
-
-
+* presented on Pathways at the district Leadership Institute (year?)
+* presnted on evaluation for Empire TM mentor program (future: table topics)
 
