@@ -5,13 +5,14 @@
 * maintained naloxone law enforcement database on SurveyMonkey
 * performed and automated weekly and monthly summary reports in R
 * performed and oversaw data entry
-* called police departments to follow up on received reports
+* called police departments to follow up on received reports (called reporting agencies to clarify inconsistent data)
 * developed and routiney ran data validation tests in R
 * provided summary charts and tables for statewide reports
-* created two fact sheets for the program in Scribus and trained interns to use Scribus
+* created 4 fact sheets for the program in Scribus and trained interns to use Scribus
 * developed infographics for the factsheets in InkScape
 * wrote one presentation on the program
 * wrote a manual on how to maintain the database and mentored my replacement
+* revised and formatted 1 state legislative report and 2 articles on naloxone use
 
 ## Admin
 
@@ -25,8 +26,12 @@
 ## GIS Internship
 
 * manually geocoded ungeocoded MI cases in MapMarker & SAM
-* wrote and published manuscript on MI rates in NYS and border issues (citation)
 * guest lectured to Russell Sage class on creating maps for publication
+* cleaned and analyzed 10 years of hospital data and 5 years of mortality data using R and SAS
+* geocoded 10 years of statewide heart attack data using MapMarker and ArcGIS
+* created maps of Environmental Public Health Tracking data in ArcGIS
+* designed 2 studies on geographic variation in heart attack rates; authored 2 associated manuscripts (one published)
+* wrote and published manuscript on MI rates in NYS and border issues (citation)
 
 ## CWGs
 
@@ -115,6 +120,7 @@
 * researched and wrote report section on pest and pet allergens
 * prepared maps on pest allergens and and asthma rates in low-income housing areas
 * prepared charts on ...
+* identifies possible data sources to estimate exposure to pet & pest allergens
 
 ### EVALI
 
@@ -193,6 +199,8 @@
 * co-wrote NYC vital records data requests (birth and mortality)
 * assisted with vital records correspondances
 * attended EPHT workshop in Atlanta - when?
+* cleaned and organized the BEOE publications list for the website
+* ran an analysis of types of locations submitted to the cooling center portal by county
 
 ## Clubs
 
