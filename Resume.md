@@ -1,10 +1,26 @@
-# CV for HRI work
+# Research Foundation
+
+## Naloxone
+
+* maintained naloxone law enforcement database on SurveyMonkey
+* performed and automated weekly and monthly summary reports in R
+* performed and oversaw data entry
+* called police departments to follow up on received reports
+* developed and routiney ran data validation tests in R
+* provided summary charts and tables for statewide reports
+* created two fact sheets for the program in Scribus and trained interns to use Scribus
+* developed infographics for the factsheets in InkScape
+* wrote one presentation on the program
+* wrote a manual on how to maintain the database and mentored my replacement
+
+## Admin
+
+* scored RFA (request for assistance) applications
+* proofread reports as needed
+* assisted to identify contacts for a methamphetamine survey
 
 
-
-
-
-
+# HRI
 
 ## GIS Internship
 
