@@ -1,5 +1,17 @@
 # CV for HRI work
 
+
+
+
+
+
+
+## GIS Internship
+
+* manually geocoded ungeocoded MI cases
+* wrote and published manuscript on MI rates in NYS and border issues
+* guest lectured to Russell Sage class on creating maps for publication
+
 ## CWGs
 
 ### Community design
@@ -52,7 +64,7 @@
 
 ### Geomasking
 
-* began conversion to a package
+* began conversion to R package
 
 ### community design package 
 
@@ -98,6 +110,7 @@
 * liaised between project manager and 2 other employees to geocode and map positive COVID tests in participating sewersheds, then calculate summary tables by sewershed and date 
 * liaised between project manager and 1 other employee to chart weekly wastewater results and positive COVID tests in participating sewersheds 
 * wrote R code to automate weekly reports and charts
+* validated data provided by ITS (contact tracing) and communicable disease (ECLRS)
 
 ### Biomonitoring
 
@@ -137,11 +150,20 @@
 * provided evaluation feedback on indicators in development
 * participated in IT calls and worked with Sairam on data issues
 
-## Data calls
+### Data calls
 
 * validated water data submission
 * validated SPARCS submission
 * prepared and reviewed metadata for SPARCS
+
+### Admin
+
+* maintain list of SPARCS projects and employees with access at what level
+* back-up and validator for SPARCS data pulls
+* assisted revising SPARCS access form
+* co-wrote vital records IRB renewal
+* co-wrote NYC vital records data rquests (birth and mortality)
+* assisted with vital records correspondances
 
 ## Clubs
 
@@ -153,14 +175,18 @@
 * posted to EBCoP blog and DOH News on events and workshops
 * helped recruit for dissertation support group
 * (future) presented at GIS day
+* chaired meetings and took notes/minutes
 
 ### Toastmasters
 
 * served as VP education, pathways ambassador (years?)
+* chaired club and business meetings
 * mentored ?? new members
 * co-facilitated workshops on evaluation, pathways, ???
-* assisted planning an impromptu workshop
+* assisted planning an extemporaneous speaking workshop
 * earned three certificates in leadership and public speaking
 * presented on Pathways at the district Leadership Institute (year?)
-* presnted on evaluation for Empire TM mentor program (future: table topics)
+* presented on evaluation for Empire TM mentor program (future: table topics)
+
+
 
