@@ -201,6 +201,7 @@
 * attended EPHT workshop in Atlanta - when?
 * cleaned and organized the BEOE publications list for the website
 * ran an analysis of types of locations submitted to the cooling center portal by county
+* (EBCoP?) mentored interns on resume, cover letter, and interview skills
 
 ## Clubs
 
