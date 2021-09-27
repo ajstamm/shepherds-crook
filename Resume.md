@@ -24,15 +24,17 @@
 
 ## GIS Internship
 
-* manually geocoded ungeocoded MI cases
-* wrote and published manuscript on MI rates in NYS and border issues
+* manually geocoded ungeocoded MI cases in MapMarker & SAM
+* wrote and published manuscript on MI rates in NYS and border issues (citation)
 * guest lectured to Russell Sage class on creating maps for publication
 
 ## CWGs
 
 ### Community design
 
-* assessed usefulness of InfoUSA to calculate food deserts and food swamps and presented to group and rejected it
+* assessed usefulness of InfoUSA to calculate food deserts and food swamps, presented to group, and advised against using InfoUSA
+* served on food accessibility (name?) and traffic safety subteams
+* asisted in developing indicator definitions for traffic safety using FARS data
 * wrote R code (developing R package) to calculate proposed indicators (list)
 * provided feedback on ArcGIS how-to guides for indicators
 * participated in discussions
@@ -48,7 +50,7 @@
 ### Geospatial (geoaggregation and whatever merged with it)
 
 * assessed including group quarters in aggregated areas
-* presented on aggregation method, GAT, and imputation method
+* presented on aggregation method, GAT, and imputation method used in NYS
 * participated in discussions
 
 ### Hospitalization
@@ -56,10 +58,15 @@
 * participated in discussions
 * served on COVID effects on hospitalization and NCDM subcommittees
 
+### Cold related illness
+
+* presented on cold related deaths in NYS
+* participated in discussions
+
 ### SND
 
 * participated in discussions
-* tracked topics of interest to other team members (notably Kristen)
+* tracked topics of interest to NYS team members (notably Kristen)
 
 ### Health equity
 
@@ -69,7 +76,7 @@
 
 ### GAT
 
-* converted R script to comprehensive R package
+* converted R script to comprehensive R package (citation)
 * updated and debugged code and added extensive functionality
 * wrote several documents (count/name vignettes) and created animations of how GAT works
 * presented two tutorials to BEOE and CDC
@@ -77,6 +84,7 @@
 * presented at useR! 2021, NAHDO 2020, and BEOE seminar
 * (future) speak with media person about GAT
 * figured out licensing/copyright/acknowledgements
+* oversaw two interns' testing (bug-finding) of GAT (Maxime & Marine)
 
 ### Geomasking
 
@@ -88,16 +96,16 @@
 
 ### imputation
 
-* convert Gwen's code to R
+* convert Gwen's code to R (in progress)
 * validate Gwen's code and process
-* assessed use of hot deck (instead of cold deck) imputation and rejected it
-* rewrote method to incorporate multiple imputation results into area counts
+* assessed use of hot deck (instead of cold deck) imputation and rejected it due to processing issues
+* rewrote imputed counts calculations to incorporate multiple imputation results into area counts
 
 ## Projects
 
 ### Governor's Cancer Research Initiative
 
-* researched and mapped environmental sites of concern (check name)
+* researched and mapped DEC environmental sites of concern (check name - brown-something?)
 * investigated food deserts/swamps in the area
 * calculated ... ???
 * received award for ... ???
@@ -125,7 +133,7 @@
 * validated ECLRS data for the nursing home and adult home COVID testing studies and oversaw 5 other validaters
 * liaised between project manager and 2 other employees to geocode and map positive COVID tests in participating sewersheds, then calculate summary tables by sewershed and date 
 * liaised between project manager and 1 other employee to chart weekly wastewater results and positive COVID tests in participating sewersheds 
-* wrote R code to automate weekly reports and charts
+* wrote R code to summarize data and automate weekly reports and charts
 * validated data provided by ITS (contact tracing) and communicable disease (ECLRS)
 
 ### Biomonitoring
@@ -140,7 +148,7 @@
 * prepared data and documentation for asthma, copd, mi, premature death, low birthweight
 * assessed various measures of premature death and proposed the one chosen
 * participated in partner meetings
-
+* provided input on selection of low birthweight and asthma ED as primary birth and respiratory indicators
 
 ### Cancer registry/program
 
@@ -150,11 +158,11 @@
 
 ### Subcounty portal (Portal 2.0)
 
-* designed MongoDB structure
+* designed MongoDB database structure
 * prepared and uploaded datasets: SPARCS, births, deaths, weights, population, and uploaded temperature
 * wrote MongoDB schema, data dictionary, and formulas document
 * assisted ITS troubleshooting data issues
-* oversaw geocoding of mortality and birth data (delegated to Doug & Maxime), and geocoded in MapMarker myself
+* oversaw geocoding of mortality and birth data (delegated to Doug & Maxime, respectively), and geocoded in MapMarker myself
 * participated in subcounty committee
 * improved procedure to develop subcounty areas
 * co-wrote document (with Arjita) on subcounty area development
@@ -163,8 +171,12 @@
 ### Current portal
 
 * provided R code for Maxime to run birth outcomes indicators 
+* reconstructed birth indicators from old SAS code
+* developed infant mortality indicator code to switch from CDC Wonder summaries to geocoded VR data
 * provided evaluation feedback on indicators in development
 * participated in IT calls and worked with Sairam on data issues
+* oversaw intern's evaluation of geocodability of birth data (Amandus)
+* oversaw intern's geocoding of birth data (Maxime)
 
 ### Data calls
 
@@ -178,15 +190,16 @@
 * back-up and validator for SPARCS data pulls
 * assisted revising SPARCS access form
 * co-wrote vital records IRB renewal
-* co-wrote NYC vital records data rquests (birth and mortality)
+* co-wrote NYC vital records data requests (birth and mortality)
 * assisted with vital records correspondances
+* attended EPHT workshop in Atlanta - when?
 
 ## Clubs
 
 ### EBCoP
 
 * developed (2-3) R workshops (topics?)
-* ran (how many) R workshops on (4-5) topics in conjunction with UAlbany Rockefeller College and School of Public Health (years?)
+* facilitated & co-facilitated (how many) R workshops on (4-5) topics in conjunction with UAlbany Rockefeller College and School of Public Health (years?)
 * organized workshops in R, ArcGIS, Python, manuscript writing as co-lead of Learning Pathways
 * posted to EBCoP blog and DOH News on events and workshops
 * helped recruit for dissertation support group
