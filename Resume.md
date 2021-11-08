@@ -1,6 +1,16 @@
+https://www.linkedin.com/in/abigail-stamm-3932765/
+
 # Research Foundation
 
+Evaluation Specialist	May 2015 – March 2018  
+Office of Program Evaluation and Research, AIDS Institute, NYS Department of Health	Albany, NY 
+
 ## Naloxone
+
+•	Managed the public safety naloxone use database; called reporting agencies to clarify inconsistent data.
+•	Developed 3 RMarkdown scripts to speed up production of monthly and quarterly summary reports. 
+•	Designed 4 factsheets on naloxone usage projects using R, InkScape, and Scribus.
+•	Revised and formatted 1 state legislative report and 2 articles on naloxone use. 
 
 * maintained naloxone law enforcement database on SurveyMonkey
 * performed and automated weekly and monthly summary reports in R
@@ -24,6 +34,13 @@
 # HRI
 
 ## GIS Internship
+Data Analyst	May 2016 – March 2018  
+Bureau of Environmental & Occupational Epidemiology, NYS Department of Health	Albany, NY
+
+•	Geocoded 10 years of statewide heart attack data using MapMarker and ArcGIS.
+•	Cleaned and analyzed 10 years of hospital data and 5 years of mortality data using R and SAS.
+•	Created maps of Environmental Public Health Tracking data in ArcGIS.
+•	Designed 2 studies on geographic variation in heart attack rates; authored 2 associated manuscripts.
 
 * manually geocoded ungeocoded MI cases in MapMarker & SAM
 * guest lectured to Russell Sage class on creating maps for publication
@@ -203,7 +220,7 @@
 * ran an analysis of types of locations submitted to the cooling center portal by county
 * (EBCoP?) mentored interns on resume, cover letter, and interview skills
 
-## Clubs
+## Clubs and school activities
 
 ### EBCoP
 
@@ -225,6 +242,70 @@
 * earned three certificates in leadership and public speaking
 * presented on Pathways at the district Leadership Institute (year?)
 * presented on evaluation for Empire TM mentor program (future: table topics)
+
+### Volunteer Service
+
+•	Science Fair Judge, Genius Olympiad, SUNY Oswego 2011 - 2019, University of Rochester 2021
+
+### Graduate Student Assembly
+
+•	Speaker, UAlbany Graduate Student Assembly, 2017 - present
+* Public Health Representative, 2015 - 2017
+•	Graduate Student Representative, Globalization Workgroup, University at Albany Strategic Planning Committee, 2017 - present
+* presenter, NAGPS conference at Columbia University
+
+# Presentations and publications
+
+
+
+
+
+# Past experience 
+
+(Copy-pasted from my resume on LinkedIn)
+
+EDUCATION 
+
+PhD, Epidemiology, expected 2019
+	School of Public Health, State University of New York at Albany, Albany, NY 
+MA, Science, Health, and Environmental Communication 
+	Marquette University, Milwaukee, WI 
+BA, Major: Anthropology, Minor: African Studies 
+	St Lawrence University, Canton, NY 
+
+EXPERIENCE 
+
+Teaching Assistant	2014 – 2015
+School of Public Health, State University of New York at Albany	Albany, NY 
+•	Assessed student work for EPI 500: Introduction to Epidemiology and EPI 552: Biostatistics. 
+•	Organized weekly study SAS groups and programmed R code equivalents of SAS-based assignments.
+
+Researcher	2012 – 2014 
+Wisconsin Obesity Prevention Network, University of Wisconsin-Madison	Madison, WI 
+•	Organized and verified data in a comprehensive stakeholder database. 
+•	Prepared the Institutional Review Board application for a baseline survey project. 
+•	Implemented a stakeholder survey in Qualtrics; performed preliminary analysis on results in SPSS.
+
+Teaching Assistant	2013 
+University of Wisconsin-Madison	Madison, WI 
+• 	Developed and facilitated 4 weekly discussion groups for Med Hist 213: Global Environmental Health. 
+
+Adjunct Instructor	2012 
+State University of New York at Oswego	Oswego, NY 
+•	Taught 2 sections of MAT 179: Measuring Life, an introduction to biostatistics. 
+
+College Lecturer	 2010 – 2011 
+US Peace Corps Response, Bishop Stuart Teachers’ College	Mbarara, Uganda 
+•	Taught Biology and Physics and facilitated 5 sexual health workshops. 
+•	Designed 15 laboratory activities using local materials and assessed 7 students' teaching ability.
+
+HIV/AIDS Technical Advisor	2008 – 2009 
+US Peace Corps Response, Balaka District Assembly	Balaka, Malawi 
+•	Developed 3 district maps, 2 databases, 2 speeches, and 2 organograms for the Assembly.
+•	Advised the Assembly and 17 community organizations on budget and grant revisions. 
+•	Facilitated 30 sessions on Life Skills, Computer Literacy, and Monitoring & Evaluation. 
+
+
 
 
 
