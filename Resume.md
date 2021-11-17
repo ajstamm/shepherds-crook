@@ -1,3 +1,26 @@
+Presentations:
+Development of Sub-County Level Health Data Indicators through Geographic Aggregation for Environmental Health Surveillance in New York State, Arjita Rai, Abigail Stamm, Gwen L Babcock, 
+Douglas Done, Seema Nayak, Neil Muscatiello, November 16, 2021, Health & Place
+
+NYS EPHT: Geographic Aggregation Development Process. Me and Gwen, co-written by Arjita. SND call, Oct 3, 2019, virtual
+
+Demo of GAT. March 9, 2020, Geo Aggregation CWG. Me, with assistance from Gwen?
+
+
+Bureau Seminar 2/18/2021, Geographic Aggregation Tool (GAT): An introduction and demonstration 
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://www.linkedin.com/in/abigail-stamm-3932765/
 
 # Research Foundation
