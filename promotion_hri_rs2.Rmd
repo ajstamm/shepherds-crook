@@ -1,0 +1,219 @@
+---
+output: 
+ pdf_document:
+    keep_tex: TRUE
+geometry: "left=2.5cm,right=2.5cm,top=2cm,bottom=2cm"
+classoption: 11pt
+---
+
+## Abigail Stamm - Personal Narrative
+
+I have worked for Health Research, Inc. (HRI) the New York State Department of Health (NYSDOH) Bureau of Environmental and Occupational Epidemiology (BEOE) for about five years, first as a student assistant and for the last 3.5 years as a Research Scientist. I have been involved in several projects during my time at BEOE. My primary contributions are listed below.
+
+### 1) Contribution to the Department’s public health mission to protect, promote or preserve the public’s health and to the incumbent’s field of public health
+
+
+
+
+> what do I put here? portal, random state reports?
+
+### 2) Technical competence in program area, educational achievements, and evidence of continued professional development
+
+I am currently a doctoral student in Epidemiology at the SUNY Albany School of Public Health. My studies included coursework in biostatistics, GIS, SAS, epidemiology, and quantitative and qualitative data analysis. My masters studies included courses on behavioral health and survey design and analysis.
+
+Prior to the COVID lockdown, I taught workshops each semester (spring 2016 to fall 2019) on using R, which are available on my GitHub site at https://ajstamm.github.io/titanic/workshops/. These workshops covered the basics of R syntax, simple R charts, and using R for data management and for manipulating relational databases. I am developing additional workshops on using R to produce maps and using GAT. In addition to running workshops, I served as the co-chair for the NYSDOH Epidemiology and Biostatistics Community of Practice Learning Pathways Team, for which I coordinated the facilitators for workshops covering ArcGIS, Python, and writing journal manuscripts.
+
+
+### 3) Innovativeness in the application of scientific knowledge and methodology to public health problems as evidenced in research experience and contributions to scientific knowledge
+
+I have made two major contributions to scientific methodology and one major controbution to scientific knowledge. 
+
+* I developed the Geographic Aggregation Tool (GAT) with Gwen Babcock. This software is an add-on for the statistical program R that allows users to combine small geographic areas based on user preferences. This tool was publicly released on GitHub earlier this year. It has been shared with the CDC and presented at multiple conferences. Internally, we have used it to (1) create the subcounty areas we use to share data with partners and will display on our new online data portal and (2) develop a sampling scheme for a biomonitoring project.
+* I built on Gwen Babcock's work to impute census tracts for Statewide Planning and Research Cooperative System (SPARCS) cases with missing or ungeocodable addresses by (1) porting her imputation code from SAS to R, (2) developing a method to incorporate results from multiple imputations into our case totals, and (3) expanding her method to apply to birth records. We have presented on this process for internal and external audiences.
+* As an intern, I designed, analyzed, wrote, and published a research project on border effect in New York State (NYS). This project showed that heart attack rates were lower along the eastern border of NYS than elsewhere in the state. It posited that this was due in part to NYS residents seeking care across the state border and recommended that states share hospital data to get full pictures of their residents' health.
+
+
+
+### 4) Diversity and level of technical skills needed in the position
+
+As a data manager, I routinely use R and SQL in my work. For some projects, I validate data for a coworker who uses SAS and assist with debugging her code. I write a lot of technical documentation, including data schema, data dictionaries, instructions to calculate indicators and use software, and how tools and measures were created. For GAT, I write all documentation within the software in Roxygen and all supplementary documentation in Markdown and LaTeX. For the R workshops I run, I write all slides in HTML. One of my projects also requires JSON. My geocoding projects require both MapMarker and ArcGIS, which I use routinely, and I produce maps and charts in R. I read data from Excel and Access into R and write to Excel. 
+
+I have written literature reviews on a variety of topics and have formatted charts and text for state reports and factsheets. For projects, I routinely clean and run summary analyses on data. From my coursework and dissertation, I also have experience with running and interpreting regression analyses.
+
+
+### 5) Quality and efficiency of the programmatic component for which the incumbent is responsible
+
+
+
+> Routine reports, meeting deadlines, correcting mistakes
+
+### 6) Supervisory experience and responsibility, including number, title and grade level of staff
+
+> Mentoring, coaching, training, overseeing
+
+### 7) Authorship of publications and reports, considering type, number, research involved, and relevance of the work
+
+I have published one peer-reviewed journal article as first author and one R package. I am in the process of developing two other R packages, one on geomasking and one for a CDC community design project.
+
+* Stamm, A, & Babcock, G (2021). gatpkg: Geographic Aggregation Tool (GAT). R package version 1.61.0. https://github.com/ajstamm/gatpkg   
+    First author for this software package to facilitate automation of small area aggregation for the purpose of protecting confidentiality and calculating stable health measures. 
+*	Stamm, A, Savadatti, S, Kumar, S, & Hwang, S (2017). A spatial analysis of acute myocardial infarction rates in New York State in relation to hospitals along state jurisdictional borders. Journal Of Public Health Management And Practice, 23(5), S39-S44. doi:10.1097/PHH.0000000000000596  
+    First author for this peer reviewed article on analyzing a possible border effect among heart attack rates in NYS.
+* Report for the Governor's Cancer Research Initiative, 2019.  
+Contributed analyses and maps for the section on Buffalo, NY. 
+* Report for the New York City Asthma Study, 2020.  
+  Performed a literature review for and wrote the section on pest triggers of asthma and contributed maps and charts for the section on environmental triggers.
+
+> naloxone factsheets?
+> wastewater article under review?
+
+### 8) Professional recognition 
+
+At the Department of Health, I received the Commissioner's Recognition Award for Inter-Agency or Intra-Agency Cooperation in December 2019 for my work on the Governor's Cancer Research Initiative. For this project, I mapped Brownfield sites identified by the Department of Environmental Conservation that were located near our area of interest in Buffalo. I also investigated food swamps and food deserts in the same area using the commercial InfoUSA database as part of our environmental assessment.
+
+I have been a member of the NYSDOH chapter of Toastmasters International, a professional public speaking and leadership organization, for six years. During that time, I have received one public speaking award, Advanced Communicator Bronze, and two leadership awards, Competent Leader and Advanced Leader Bronze. Earning these awards required me to fulfill a series of duties in the club, including (1) serving for a year as Vice President Education, (2) chairing meetings and taking meeting minutes, (3) giving prepared and impromptu speeches at events both within and outside the club, (4) facilitating club activities, and (5) mentoring club members in public speaking, leadership, and facilitation skills.
+
+
+### 9)  Grants received, including their number, size, recency, type, and relevance
+
+> No grants, but do things like IRB and data requests count here?
+> took class at marquette in grant-writing
+
+### 10) Scientific presentations and posters at local, state, national and international meetings and conferences, considering type, number, first authorship, the research involved and relevance of the work
+
+Presentations for which I was a presenter:
+
+* Stamm, A, Muscatiello, N, & Hsu, W. Accounting for demographics in geographic aggregation. Place & Health Conference 2021. Virtual, November 16, 2021.  
+    Presenter and first author for this poster on using GAT to automate neighborhood aggregation.
+* Stamm, A. gatpkg: Developing a geographic aggregation tool in R for non-programmers. useR! 2021. Virtual, July 6, 2021.  
+    Presenter and author for this lightning talk on developing software that someone who is not a computer programmer can use.
+* Stamm, A. Geographic Aggregation Tool (GAT): An introduction and demonstration. NYSDOH BEOE Bureau Seminar. Virtual, February 18, 2021.  
+    Presenter and author for this technical presentation about what GAT does and how to use it.
+* Stamm, A. Geographic Aggregation Tool (GAT): A method for handling small numbers when calculating disease rates. NAHDO Conference 2020. Virtual, August 25, 2020.  
+    Presenter and author for this presentation on automating small area aggregation.
+* Stamm, A, & Babcock, G. Demonstration of the Geographic Aggregation Tool. CDC NEPHT Geo Aggregation Workgroup Call. Virtual, March 9, 2020.  
+    Presenter and first author for this technical demonstration of how to use GAT.
+* Rai, A, Stamm, A, & Babcock, G. NYS EPHT: Geographic Aggregation Development Process. CDC NEPHT SND Workgroup Call. Virtual, October 3, 2019.  
+    Presenter and second author for this presentation on developing and imputing to subcounty aggregated areas.
+    
+Presentations for which I was an author, but not a presenter:
+
+* Rai, A, Stamm, A, Babcock, G, Done, D, Nayak, S, & Muscatiello, N. Development of Sub-County Level Health Data Indicators through Geographic Aggregation for Environmental Health Surveillance in New York State. Place & Health Conference 2021. Virtual, November 16, 2021.  
+    Second author for this presentation on developing subcounty aggregated areas.
+* Rowe, K, Stamm, A, Leung, S, Hammer, M, Vinehout, J, Stancliff, S, Dailey, M, & White, V. Findings from the New York State (NYS) opioid overdose and intranasal naloxone program for law enforcement. American Public Health Association 2016. Denver, CO, October 29-November 2, 2016.  
+    Second author for this presentation on the NYS Naloxone Law Enforcement Program.
+
+
+### 11) Academic work and affiliations, including collaborative research and work with academic departments, staff and students
+
+For my doctoral work at SUNY Albany, I am using data housed in BEOE, which will benefit BEOE's research initiatives. My project assesses a possible relationship between certain air pollution models, including one developed at Emory University, and select birth defects in NYS. 
+
+I am the BEOE data manager for the statewide COVID sewershed project, which involves a consortium of agencies, notably Syracuse University and SUNY ESF. For this project, I summarize COVID testing data from the Electronic Clinical Laboratory Reporting System (ECLRS) and plot it on charts against COVID levels measured in the data for each sewershed. 
+
+Related to BEOE's climate work, a few universities have contacted BEOE for data, usually birth, mortality, or disease rates at subcounty level. If they receive permission to use the data, then I prepare it for them.
+
+
+
+### 12) Additional strengths
+
+
+
+
+> Leadership skills?
+
+
+
+```{r echo=FALSE, eval=FALSE}
+
+# Seema's intro ----
+# 
+# I have worked at the New York State- Department of Health (NYSDOH) in the Bureau of Environmental and Occupational Epidemiology (BEOE) for about four years and employed by Health Research, Inc. (HRI) for three of those four years. Following a one year fellowship funded by ORISE at the BEOE, I was employed by HRI as Research Scientist and under the direction and supervision of Dr. Shao Lin I have gained experience in various aspects of Environmental Health research. I have been involved in several projects and my primary contributions to the NYSDOH during this period are listed below. 
+
+# public health mission ----
+1) Contribution to the Department’s public health mission to protect, promote or preserve the public’s health and to the incumbent’s field of public health;
+While much of my work over the past few years has been research oriented, my current work is primarily geared toward promoting and protecting the NYS public’s health. I am currently working on a project which has a large public health practice component including identifying vulnerable populations and regions in NYS and providing the public with information on adaptation resources available in an effort to reduce how climate change impacts their health. During my time at the NYSDOH I’ve had the opportunity to work on various air pollution and climate change related health projects with the ultimate goal of trying to develop evidence based interventions and other actionable efforts at the DOH.
+
+# technical competence ----
+2) Technical competence in program area, educational achievements, and evidence of continued professional development;
+My educational background consists of a pre-university degree in Mathematics and Sciences, a Medical degree from Manipal University, India and a Masters degree in Public Health from the School of Public Health (SPH), University at Albany, NY. I believe my background of human and medical sciences as well as Epidemiology and Biostatistics have been beneficial in providing me the appropriate foundation for my current work at the DOH. 
+I have attended several seminars, webinars and training workshops relevant to my current work. I have attended the GIS conference held at the SPH to familiarize myself with newer GIS technologies and the various methods of GIS usage in the public health community. I attended a SatScan workshop to learn how to conduct cluster analysis using free software. I have attended a Disaster Epidemiology workshop at the CSTE conference as well, where we were introduced to the various epidemiological practices used during natural disaster events like Hurricane Sandy, Katrina, forest fires and earthquakes, as well as man-made disasters such as community exposures to radiation, chemical and oil spills across the country. I have also taken some online SAS classes to improve my SAS skills.
+In addition to the above along with Dr. Lin, Dr. Fitzgerald and the Center for Public Health Preparedness at the School of Public Health, I have successfully developed a disaster epidemiology course including 9 lectures, 6 workshops, pre and post assessment tests. The course was conducted by Drs Lin and Fitzgerald in the Sun-Yat-Sen University in China over the course of 3 days and was received by nearly 100 participants from the public health and medical fields.
+
+# innovation ----
+3) Innovativeness in the application of scientific knowledge and methodology to public health problems as evidenced in research experience and contributions to scientific knowledge;
+a) Population Vulnerability to Climate change in NYS: The purpose of this NYSERDA funded study is to identify heat vulnerable populations and regions in NYS and develop evidence based interventions to reduce impacts of climate on health. I serve as project coordinator and am directly involved in the research design and oversee all aspects of implementation. This project has several public health components including identifying vulnerable populations, developing a heat vulnerability index, assessing the utility, adequacy and accessibility of cooling centers in NYS as well as projecting the future health burden due to extreme heat. I am currently involved in developing the heat-health vulnerability index which is a novel approach for the DOH to determine vulnerability in NYS. I am also building a database of cooling centers in NYS that will eventually be shared with the public during periods of extreme heat so they can identify cooling centers that are nearest to them. I am also conducting an assessment of public awareness to heat adaptation resources like air conditioning, cooling centers and heat alert systems. All aspects of this project have significant public health implications. 
+
+b) Associations between ambient pollutants and respiratory morbidity in New York City: The purpose of this U.S. Environmental Protection Agency funded health assessment was to perform a comparison between the effects of ambient concentrations versus predicted exposures of ozone on respiratory health in NYC. I served as a co-investigator on this project, and have been involved in analysis, synthesis of results and developing maps for displaying results. This project compares ozone and PM2.5 exposure using the CMAQ and SHEDS models developed by EPA, both novel approaches to quantify human exposure risk on an individual-level basis. This is also one of the few studies incorporating such a rigorous environmental assessment. 
+
+c) Assessment of heat indicators and their relationship with heat related illness: In this CDC funded Climate-Health Research project multiple heat indicators were assessed and compared to determine the most sensitive predictor of the heat- heat related illness association. Using hospital admission data for a 14 year period, I also conducted statistical analysis to identify the temperature threshold points for heat related illness using different methods. This is one of the few studies that investigates the threshold for heat related illness in NYS and compares heat indicators like temperature metrics and heat wave definitions. This study can help policy maker and public health leaders develop heat adaptation strategies in NYS.
+
+d) Assessment of the impact of Hurricane Sandy on mental health: In this ongoing CDC funded project, several staff members of the BEOE are working on the assessment of the effects of Hurricane Sandy on the health of populations living in disaster stricken areas of NYS. My role as research staff in this project is to assess the effect of Sandy on the mental health among residents of 8 hurricane impacted counties of NYS. Hospital admissions and ED visits for mental health outcomes during the hurricane period will be compared to other years during the same time of the month. Comparisons between affected and non-affected areas will be made to determine the impact of the hurricane on health. This project will help identify hurricane vulnerable populations and is one of the few studies assessing the health impacts of Sandy on health helping be better prepared for future disasters. 
+
+# technical skills ----
+4) Diversity and level of technical skills needed in the position;
+During my time at the DOH, I have worked in various capacities for several projects in the section and bureau ranging from support staff to research scientist as well as project coordinator. I have been involved in multiple phases of environmental epidemiology studies, including hypothesis formation, study design, data management, and statistical analysis as well as  synthesis, report-writing, and presentation of results.  Through this diversity of roles I have been able to improve my skills, participate in multi-disciplinary studies and broaden my work experience. While working on these projects I have also been involved in collaborations with several agencies both within NYSDOH and at outside institutions, including local health departments, University at Albany – SUNY, NYS Department of Environmental Conservation, US EPA and consultants at Kent and Columbia University.
+As described previously, I have extensive Geographical Information Systems (GIS) expertise, including knowledge of geocoding, map production, and interpolation methods with GIS software like MapInfo, ArcGIS, SATScan and Google Earth. I have aided other staff and students in using GIS software for BEOE projects. In addition, I have several computer skills beyond using traditional statistical or word processing software including Access database development.  I recently developed a database for a survey assessing awareness of heat adaptation resources and oversaw the data collection and entry for the NYSERDA funded project. I have aided other Bureau staff in developing Access databases for various projects. I routinely conduct statistical analyses and synthesize results for diverse audiences. In addition to generating simple statistics, I perform quantitative analyses routinely, including the use of logistic and linear regression models. 
+
+# quality and efficiency ----
+5) Quality and efficiency of the programmatic component for which the incumbent is responsible;
+During the period I worked in the BEOE I have had the opportunity to work on multiple projects and believe I have demonstrated quality and efficiency in all my work. I have been project coordinator for the NYSERDA funded project titled “Population Vulnerability to Climate Change in NYS” and have successfully managed, conducted and participated in the ongoing project and within the expected time frame. 
+Multiple components of this project address an important public health concern, namely climate change. I have worked on building a database of cooling centers in NYS and have worked on developing a vulnerability index that will help identify vulnerable populations and regions in NYS. I have also recently joined a climate change group that will develop interventions to reduce the impact of heat on health in NYS based on our research findings. I have prepared numerous reports and presentations and which have been well-received. I also meet with PI and staff of the NYS EPHT group to work on the translation of our research for the public and the provision of cooling center locations to the public.
+I perform various administrative duties for my Section, and am often chosen to aid in both challenging and time-sensitive tasks. My assigned duties and responsibilities also reflect my capabilities, as they are diverse, frequently challenging, and require significant statistical and epidemiologic expertise, organizational strengths, and administrative skills. I also consider myself to be a highly productive worker, as I have contributed to numerous written materials, manage multiple projects at once, and have always completed tasks in a timely manner. I have been relied upon as a technical resource and have helped other Bureau staff in project database development, statistical analyses, and guidance for data and IRB requests. I often assist my Section and the Bureau in writing grant reports, manuscripts, and additional tasks such as paper submission and responding to editorial comments. I believe all these assignments and tasks are an indication of the quality and efficiency of my work.
+
+# supervisory experience ----
+6) Supervisory experience and responsibility, including number, title and grade level of staff;
+In the past 3 years I have been given the opportunity to serves as supervisor to three students and one staff as well as a serve as lab rotation mentor to one student. I have been supervisor to a junior staff member for nearly a year. I meet regularly with my supervised students and staff to determine their short term and long term goals and to help them overcome any obstacles or issues at work or in the work environment. My responsibilities as supervisor include the following: 1) Provide opportunities to expand their knowledge in various aspects of research work; 2) Provide guidance in performing analysis and other daily activities on projects funded by NIH, CDC and NYSERDA; 3) Provide training to use statistical and geographic software; 4) Oversee their daily work, including reviewing of SAS code, statistical analysis and interpretation of results; and 5) Ensure timely and efficient production of research deliverables.
+
+# authorship ----
+7) Authorship of publications and reports, considering type, number, research involved, and relevance of the work;
+I have co-authored five articles (2 papers as 2nd author; 1 paper as 3rd author and 1 paper as 4th author), that have been published in peer review journals. I have one 1st authorship manuscript that is in the process of internal review and three papers as 1st author that are being prepared. I have also presented 5 posters at numerous conferences.
+
+Published papers:
+1.	Jones R, Özkaynak H, Nayak SG, Garcia VC, Hwang SA, Lin S. Associations between summertime ambient pollutants and respiratory morbidity in NYC: comparison of results using ambient concentrations versus predicted exposures. Journal of Exposure Science and Environmental Epidemiology (2013) 23, 616–626. In this paper, using a time-stratified, case-crossover approach, associations between respiratory hospitalizations in New York City during 2001-2005 and ambient pollutant (ozone and PM2.5) concentrations were compared to those with predicted exposures provided by USEPA’s SHEDS human exposure model. 
+
+2.	Lin S, Jones R, Munsie JP, Nayak SG, Fitzgerald EF, Hwang SA (2011). Childhood asthma prevalence and indoor allergen exposure and sensitization in Buffalo, New York. International Journal of Environmental Health and Occupational Hygiene. 215(3); 297-305. This paper describes a nested case-control study conducted to examine the association between prevalent asthma and indoor allergen sensitization and/or exposure among children (aged 5-17 years) in Buffalo, New York. The study included a self-administered questionnaire, clinical interviews, skin allergen sensitivity tests and home dust sampling for house dust mites, cat, dog, cockroach and mouse allergens
+
+3.	Moslehi R, Schymura MJ, Nayak S, Coles FB (2011). Ocular adnexal non-Hodgkin’s lymphoma: a review of epidemiology and risk factors. Expert Review Ophthalmology. 6(2), 181–193. This paper reviews the various risk factors for Ocular adnexal non-Hodgkin’s lymphoma (NHL), which is the most common form of ophthalmic NHL. Ocular adnexal NHL has a unique incidence pattern showing a steady and rapid increase in the past few decades, nearly equal rates among both genders, and predominance among Asians/Pacific Islanders. This article summarizes current knowledge on epidemiology of ocular adnexal NHL and the role of various potential risk factors in its etiology, including infectious agents, immune disorders and genetic/epigenetic factors.
+
+4.	Hosler AS, Nayak SG, Radigan AM (2011). Stressful events, smoking exposure and other maternal risk factors associated with gestational diabetes mellitus. Paediatric and Perinatal Epidemiology. 25:566-574. In this study, using data obtained from the New York State (NYS) Pregnancy Risk Assessment Monitoring System survey for 2004–06 and the NYS birth certificates, we examined relationships between GDM, stressful events and smoking among 2690 women who had live singleton births and did not have pre-pregnancy diabetes. Understanding risk factors for GDM is imperative for the prevention of GDM and its complications. This paper was written in collaboration with CDC’s Pregnancy Risk Assessment Monitoring System (PRAMS) Working Group at the NYSDOH. 
+
+5.	Hosler AS, Nayak SG, Radigan AM (2010). Agreement between self-report and birth certificate for gestational diabetes mellitus: New York State PRAMS. Maternal and Child Health Journal. 14:786–788. In this paper, we examined agreement (concordance or convergent validity) between self-report and birth certificate for gestational diabetes. Data collected from PRAMS questionnaires and birth certificates were used to determine the prevalence of gestational diabetes (GDM) among a randomly selected sample of women who recently had live births in NYS. Although the absence of a gold standard for gestational diabetes hinders assessment of criterion validity, results suggest that self-reporting by PRAMS respondents is feasible for identifying cases of gestational diabetes for surveillance and population-based epidemiologic research. The project was conducted in collaboration with CDC’s Pregnancy Risk Assessment Monitoring System (PRAMS) Working Group at the NYSDOH.
+
+Under preparation:
+1.	Comparative Analysis of Multiple Extreme Heat Indicators and Threshold assessment for Heat Related Illnesses in New York State. This 1st authorship paper is currently under internal review and summarizes the effect of heat on heat related illness hospital admissions in NYS. This study compares various heat metrics and performs a preliminary threshold analysis of heat related illnesses in NYS. Based on internal review, revisions are being made prior to submission.
+2.	Three first authorship papers are also in the process of being prepared as part of the NYSERDA funded grant and will describe the development of a heat-vulnerability index, the assessment of accessibility of cooling centers in NYS, and the assessment of the public awareness of heat adaptation resources in NYS. There will be sevral other second authorship papers that will be written as part of this project and will be written on completion of the project.
+
+In addition to these formal publications, as part of my job responsibilities, I have also prepared numerous posters and presentations for both internal and external audiences, and I frequently contribute to Section-, Bureau-, and Center-level reports, fact sheets, and numerous other written materials. I have also worked on various components of one non-competitive and several competitive grant proposals, including contributing to research design, preparation of budgets, performing power analyses, literature review, and general editing.  A complete list of my published work and manuscripts in progress can be found in my CV.
+
+# professional recognition ----
+8) Professional recognition 
+I was awarded a one year Fellowship at NYSDOH (BEOE) funded by ORISE to assess the effect of US EPA’s NOxSIP implementation on respiratory and cardiovascular health.
+I am currently a member of CSTE and have joined the Disaster Epidemiology group and Climate Change group through the CSTE, and join them on monthly conference calls to discuss disaster toolkit development, current practices and methodology in disaster epidemiology and preparedness. 
+I have been invited to serve as a reviewer for journals including the Journal of Maternal and Child Health and the Journal of Public Health to review articles being considered for publication. I have so far reviewed four manuscripts on invitation by the journal editors.
+
+# grants ----
+9)  Grants received, including their number, size, receny, type, and relevance;
+I have not prepared any grant proposals for my own research but have contributed significantly to the preparation of several competitive grant proposals with Dr. Shao Lin. I do intend to apply as a Co-PI with Dr. Lin for funding in the future to continue developing my role as a researcher in NYSDOH. NYSERDA currently funds a grant I am working on and funded by, and it encourages us to apply for a soon to be announced RFA which is an extension of the current project.
+
+# presentations and posters ----
+10) Scientific presentations and posters at local, state, national and international meetings and conferences, considering type, number, first authorship, the research involved and relevance of the work;
+I have represented the bureau at several conferences to remain up to date on current practices and methods. I have made presentations, both oral and poster presentations at major conferences like the Council of State and Territorial Epidemiologists (CSTE) and the Northeast Epidemiology conferences. I have also presented at more localized meetings within the section, bureau and Division of Environmental Health Assessment at the respective seminars.
+Poster Presentations
+1.	Hosler AS, Nayak SG (Nov 2009). Co-author. Asian-American race is an independent risk factor for Gestational Diabetes Mellitus. APHA annual meeting and Expo. Philadelphia, Pennsylvania.
+2.	Nayak SG, Johnson GD, Kacica MA (April 2009). Presenter. Exploratory Analysis of the 2007 New York State Neonatal Intensive Care Unit (NICU) Module. Poster presented for New York State Department of Health, Division of Family Health at the University at Albany School of Public Health for Annual Poster Day, Rensselaer, NY. 
+3.	Jones R, Özkaynak H, Nayak SG, Lin S, Garcia V (Oct 2011). Co-author. Associations between summertime ambient pollutants and respiratory morbidity in NYC: comparison of results for ozone and PM using ambient concentrations and predicted exposures. Poster. 2011 ISES Annual Meeting. Baltimore, MD.
+4.	Nayak SG, Frisbie MM, Hwang SA, Lin S. Presenter. Translating Research Findings for the Environmental Public Health Tracking (EPHT) System. 2013 Annual CSTE Conference, Pasadena, CA. June 9-13, 2013. 
+5.	Nayak SG, Hwang SA, Lin S. Presenter. Identifying Temperature Thresholds for Heat Morbidities and Comparison of Effects with Various Extreme Heat Indicators in New York State. 2013 Annual CSTE Conference, Pasadena, CA. June 9-13, 2013. 
+6.	Nayak SG, Lin S, Hwang SA, Graber N, Sutton A, Roberts SA et al. Preliminary Steps to Assessing Cooling Centers As a Resource for Heat Adaptation in New York State. 2014 Annual CSTE Conference, Nashville, TN. June 22-24, 2013.
+Oral presentation:
+1.	Nayak SG, Lin S, Pantea C, Kinney P. Presenter. Identifying Heat-Vulnerability Factors for Multiple Health Outcomes in New York State. NorthEast Epidemiology Conference. Burlington, VT October 16, 2013.
+
+# academic work ----
+11) Academic work and affiliations, including collaborative research and work with academic departments, staff and students. 
+Along with Dr. Lin and other DOH research staff, I am in the process of working with multiple academic departments at the SPH to collaborate with them, on a recently awarded PHHS grant. As part of this collaboration I am required to meet with faculty and develop a one year work plan for faculty members and students so we can meet the deliverables in a timely manner. I have also mentored two students from SPH who interned or had their lab rotations at the DOH. I have also worked with faculty members from various universities serving as consultants on our projects.
+
+# additional strengths ----
+12) Additional strengths;
+I have served as a panel interviewer and have participated in the hiring of staff for several positions in the bureau.  My strengths include my writing ability, technical expertise, and administrative capacity. I feel that I am a competent project coordinator, researcher and supervisor and my training in epidemiology has been of benefit to all projects I participated in. I have taken on increasing levels of responsibility since my hiring at NYSDOH and feel well-prepared to continue my professional growth. I am well-organized and very capable of working on multiple projects at once. I enjoy the variety of opportunity given to me and the diversity of roles I play in each project. I am always open to new challenges. 
+```
+
