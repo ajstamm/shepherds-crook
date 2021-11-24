@@ -12,10 +12,11 @@ I have worked for Health Research, Inc. (HRI) the New York State Department of H
 
 ### 1) Contribution to the Department’s public health mission to protect, promote or preserve the public’s health and to the incumbent’s field of public health
 
+My primary duty at BEOE is to manage data for the NYS Environmental Public Health Tracking (EPHT) Program. The data I prepare are made available on our online portal, provided to our community partners, and sent annually to the CDC. I also attend meetings to advise the partners on how to use the data and to review the online portal. 
 
+I serve in several CDC EPHT workgroups. In the Cold-Related Illness Workgroup, I piloted the proposed cold-related mortality indicator in NYS. In the Geospatial and Geo Aggregation Workgroups, I presented on and contribute to discussions on developing subcounty aggregated areas, geocoding standards, and imputing ungeocodable records. In the Community Design Workgroup, I helped to develop and piloted the proposed traffic fatality indicators in NYS, piloted proposed definitions of food deserts and food swamps in Buffalo, NY, and am converting the ArcGIS indicator how-to guides to an R package.
 
-
-> what do I put here? portal, random state reports?
+I converted the Geographic Aggregation Tool to an R package, expanded its features and documentation, made it available online for anyone to use, and am its current maintainer. This tool is a free add-on for the free statistics software R that automates aggregation of small areas based on settings selected by the user. 
 
 ### 2) Technical competence in program area, educational achievements, and evidence of continued professional development
 
@@ -43,13 +44,14 @@ I have written literature reviews on a variety of topics and have formatted char
 
 ### 5) Quality and efficiency of the programmatic component for which the incumbent is responsible
 
+I strive to be efficient in my work. I complete my work in a timely manner, both to meet partners' deadlines and to complete my portion of team projects on time. I complete multiple weekly reports, for which I have written automation code both to speed up the process and to reduce mistakes. When I make mistakes, or find issues in the data, I set up data validation checks to catch and prevent similar future issues. I work effectively both alone, as with my data management and coding duties, and in a team, as with the CDC workgroups and special projects in which I have been involved.
 
-
-> Routine reports, meeting deadlines, correcting mistakes
 
 ### 6) Supervisory experience and responsibility, including number, title and grade level of staff
 
-> Mentoring, coaching, training, overseeing
+In my current position, a few projects have required me to oversee other staff. For the MARO nursing home covid testing study, I oversaw the work of five data validators assigned to confirm matches for ECLRS records. For the COVID sewershed pilot study, I coordinated two other staff for geocoding and spatial linking of ECLRS records. I have mentored several staff and interns in various skills, including geocoding, R programming, and public speaking.
+
+In my position at the AIDS Institute, I trained and oversaw interns completing data entry for the Naloxone Law Enforcement Project, a database that I managed. I also have experience managing classrooms as a teacher and professor and managing meetings both in Toastmasters and in graduate school as the Speaker for the Graduate Student Assembly.
 
 ### 7) Authorship of publications and reports, considering type, number, research involved, and relevance of the work
 
@@ -74,10 +76,10 @@ At the Department of Health, I received the Commissioner's Recognition Award for
 I have been a member of the NYSDOH chapter of Toastmasters International, a professional public speaking and leadership organization, for six years. During that time, I have received one public speaking award, Advanced Communicator Bronze, and two leadership awards, Competent Leader and Advanced Leader Bronze. Earning these awards required me to fulfill a series of duties in the club, including (1) serving for a year as Vice President Education, (2) chairing meetings and taking meeting minutes, (3) giving prepared and impromptu speeches at events both within and outside the club, (4) facilitating club activities, and (5) mentoring club members in public speaking, leadership, and facilitation skills.
 
 
-### 9)  Grants received, including their number, size, recency, type, and relevance
+### 9) Grants received, including their number, size, recency, type, and relevance
 
-> No grants, but do things like IRB and data requests count here?
-> took class at marquette in grant-writing
+I have not been directly involved in managing grants in my current position. However, annually I report my completed and intended activities for the grant report as well as any deliverables I was involved in producing. In graduate school, I took a class in grant-writing and co-wrote a grant for the non-profit at which I was working.
+
 
 ### 10) Scientific presentations and posters at local, state, national and international meetings and conferences, considering type, number, first authorship, the research involved and relevance of the work
 
@@ -116,10 +118,14 @@ Related to BEOE's climate work, a few universities have contacted BEOE for data,
 
 ### 12) Additional strengths
 
-
+> Persistent, graphic design, self-directed, 
 
 
 > Leadership skills?
+
+### Conclusion
+
+> Seek personal growth, ready for more challenges, enjoy variety of duties
 
 
 
