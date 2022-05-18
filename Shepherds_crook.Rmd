@@ -1,18 +1,57 @@
 ---
 title: "Shepherd's crook"
 author: "Abigail Stamm"
-date: "11 September 2021"
-output: html_document
+output: 
+  bookdown::pdf_document2: 
+    latex_engine: xelatex
+    toc: true
+    toc_depth: 1
+    keep_tex: yes
+    number_sections: true
+mainfont: Arial
+papersize: a5
+header-includes:
+  - \usepackage{xcolor}
+  - \usepackage{multicol}
+  - \PassOptionsToPackage{dvipsnames}{color}
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \usepackage[fontsize=11pt]{scrextend}
+  - \usepackage{enumitem}
+  - \setlist{noitemsep,topsep=1pt,parsep=1pt,partopsep=1pt}
+  - \setlength{\abovedisplayskip}{0pt}
+  - \setlength{\belowdisplayskip}{0pt}
+  - \setlength{\abovedisplayshortskip}{0pt}
+  - \setlength{\belowdisplayshortskip}{0pt}
+  - \setlength{\topskip}{0pt}
+  - \setlength{\topsep}{5pt}
+  - \setlength{\baselineskip}{0pt}
+  - \setlength{\itemsep}{5pt}
+  - \setlength{\headsep}{5pt}
+  - \setlength{\parsep}{0pt}
+  - \setlength{\parskip}{11pt}
+  - \setlength{\partopsep}{0pt}
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(tidyverse)
+require(knitr); require(bookdown); require(kableExtra); require(tidyverse)
 ```
 
-A solo contemplative game about shepherding your flock.
-This game is based on the Lost and Found system (https://lostandfound.games) created by Jack Harrison.
 
+\pagebreak
+
+$~$
+
+$~$
+
+A solo contemplative game about shepherding your flock.
+This game is based on the Lost and Found system  
+(https://lostandfound.games) created by Jack Harrison.
+
+\pagebreak
+
+$~$
 
 # Preparing the game
 
@@ -23,12 +62,18 @@ Before you start, you need:
 *	A quiet, peaceful place and at least 15 minutes per chapter
 *	Paper and implements to draw and write, such as pencils and paintbushes
 *	A time keeper, such as a clock or timer
+
+$~$
 	
 ## Safety
 
 As a solo activity, this game does not require you to negotiate boundaries and acceptable topics with others. However, you may find it helpful to consider your own boundaries. If at any time, this game triggers feelings of discomfort or loneliness, stop and step away until you feel comfortable enough to continue.
 
-# Key concepts in the Lost and Found system
+\pagebreak
+
+$~$
+
+# Key concepts
 
 1. **Staff**  
     The object whose story you are telling. The staff cannot die, but may change as it passes from one keeper to another. You are the staff.
@@ -45,48 +90,76 @@ As a solo activity, this game does not require you to negotiate boundaries and a
 5. **Change**  
     Every time your staff passes to a new keeper, it changes in some way, perhaps due to the influence of the previous keeper or the manner in which it was lost. These changes may be to the staff itself, to the staff's reality or traits, or in response to periodic prompts. You can make additional changes at any time that are as large or small as you'd like.
 
+\pagebreak
+
+$~$
+
 ## Game structure
 
-Beginning: Your staff's origin story, creator, and first keeper (if they are not your creator)
+*Beginning:*  
+Your staff's origin story, creator, and first keeper (if they are not your creator)
 
-Chapters: Each chapter follows a separate wielder. *I suggest writing one wielder per sitting or day in as much or as little detail as you would like, but the choice is yours.* 
+*Chapters:*  
+Each chapter follows a separate wielder. I suggest writing one wielder per sitting or day in as much or as little detail as you would like, but the choice is yours.
 
-* Keeper: Describe who they are and how they acquired you.
-*	Event: Describe one notable event in which you and your keeper were involved.
-*	Rest: Describe how they were parted from you and note how long you waited for your next keeper.
+* *Keeper:*  
+    Describe who they are and how they acquired you.  
+    
+*	*Event:*  
+    Describe one notable event in which you and your keeper were involved.  
+    
+*	*Rest:*  
+    Describe how they were parted from you and note how long you waited for your next keeper.  
 
-Ending: Spend some time in quiet contemplation. Describe your feelings and traits after your final keeper. 
+*Ending:*  
+Spend some time in quiet contemplation. Describe your feelings and traits after your final keeper. 
+
+\pagebreak
+
+$~$
 
 # Your identity
 
-You can choose from three types of staff. While each is described separately, feel free to mix and match to fit your preferred style or the story you want to tell. From this point forward, "you" refers to the staff whose story you are telling.
-
-*I could provide some basic svg outlines, one for each staff.*
+You may choose from three types of staff. While each is described separately, feel free to mix and match to fit your preferred style or the story you want to tell. From this point forward, "you" refers to the staff whose story you are telling.
 
 1. **Staff of office**  
-    You are a symbolic staff for rulers, prophets, and religious leaders. 
+    You are a symbolic staff for rulers, prophets, and religious leaders.  
     
 2. **Staff of power**  
-    You are a magical staff for wizards, hedge witches, and others who practice magic.
+    You are a magical staff for wizards, hedge witches, and others who practice magic.  
     
 3. **Staff of shepherding**  
     You are a shepherd's crook used largely by herders, farmers, and others who tend livestock.
 
-Now choose three traits to describe yourself, either from the table below or from your imagination. If you would like to impose some randomness, roll a couple D20s (20-sided dice) and select three options from the corresponding rows in the table below.
-
-
-```{r, echo=FALSE} 
-
-x <- read.csv("staff_attributes.csv") %>%
-  mutate(roll = 1:20) 
-names(x)[1] <- "office"
-x <- x %>% select(roll, office, power, shepherd, general)
-x
-
-```
+Now choose three traits to describe yourself, either from Table \@ref(tab:attr) or from your imagination. If you want to impose some randomness, roll some D20s (20-sided dice) and select three options from the corresponding rows in the table below.
 
 After selecting your traits, draw your appearance. Feel free to be as silly or serious, simple or ornate, cartoonish or realistic as you would like. You need not draw well or spend much time on this step. Feel free to add colors and descriptive words as well. Consider whether you have been embellished with carvings, paint, jewels, beads, metal, or other adornments.
 
+\pagebreak
+
+$~$
+
+
+```{r attr, echo=FALSE} 
+x <- read.csv("staff_attributes.csv") %>% mutate(roll = 1:20) 
+# names(x)[1] <- "office"
+x <- x %>% select(roll, office, power, shepherd, general)
+
+x %>% 
+  kable(booktabs = TRUE, format = "latex", # longtable = T, escape = F, 
+        caption = "Staff attributes") %>%
+  row_spec(0, bold=TRUE) %>% 
+  kableExtra::kable_styling(
+    latex_options = c("striped", "repeat_header"), # "hold_position", 
+    position = "center", font_size = 9, # full_width = TRUE, 
+    repeat_header_continued = "\\textit{(Continued on Next Page...)}")
+
+```
+
+
+\pagebreak
+
+$~$
 
 # Your origins
 
@@ -107,33 +180,52 @@ Now that you know a bit about where you came from, consider some other major ele
 
 After you have considered these questions, close your eyes and see yourself in your mind. For about a minute, or longer if you'd like, silently contemplate how your beginnings relate to the traits you selected. When you have finished contemplating, write down thoughts you would like to revisit and prepare to meet your first keeper.
 
+\pagebreak
+
+$~$
+
 ## Your first keeper
 
 Choose your first keeper from the following list. If you are not sure what to choose, roll a D6 (6-sided die) and select the resulting number. Each keeper type includes a range of suggestions. At least one of the suggestions for each keeper type should be suitable for the type of staff you chose to be.
 
 1. **Peasant**  
-    Your keeper came from humble beginnings. Perhaps they were a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Were you a tool of their labor, a key to their salvation, or both?
+    Your keeper came from humble beginnings. Perhaps they were a lowly shepherd, an acolyte at the village temple, or a servant or slave in a noble's manor. Were you a tool of their labor, a key to their salvation, or both?  
 
 2. **Noble**  
-    Your keeper was high-born. Perhaps they were a noble, royal, or well-placed military officer. Were you a badge of their rank or a tool of their punishment?
+    Your keeper was high-born. Perhaps they were a noble, royal, or well-placed military officer. Were you a badge of their rank or a tool of their punishment?  
 
 3. **Relgious**  
-    Your keeper was a member of a religious order. Perhaps they were a lowly monk or nun toiling in the fields, or someone more highly placed, like an abbot or priestess. What purpose did you serve for them?
+    Your keeper was a member of a religious order. Perhaps they were a lowly monk or nun toiling in the fields, or someone more highly placed, like an abbot or priestess. What purpose did you serve for them?  
     
 4. **Rogue**  
-    Your keeper lived outside the law. Perhaps they were an outlaw or thief outwitting their would-be captors, or a well-placed business owner or civil servant for whom the law did not apply. How did you help them evade capture?
+    Your keeper lived outside the law. Perhaps they were an outlaw or thief outwitting their would-be captors, or a well-placed business owner or civil servant for whom the law did not apply. How did you help them evade capture?  
 
 5. **Hermit**  
-    Your keeper enjoyed solitude. Perhaps they lived on the edge of society, or in the wilderness, tending their flocks. Were they isolated by choice or did their profession or reputation require it?
+    Your keeper enjoyed solitude. Perhaps they lived on the edge of society, or in the wilderness, tending their flocks. Were they isolated by choice or did their profession or reputation require it?  
 
 6. **Healer**  
     Your keeper served others. Perhaps they were a midwife, doctor, hedge witch, or apprentice. How were they regarded by their community?
+
+\pagebreak
+
+$~$
 
 # Events
 
 After describing each new keeper, select an event from the list provided. When you have completed one event, if you would like to explore your keeper further, feel free to return to the list to select a second or third event. After you resolve each event, change your identity in some small way. Add or remove or change a trait, but make sure you always have three to seven traits, or change your appearance somehow.
 
 *Suggestion: Each event for any given keeper should be different. Do not select more than three events for any one keeper and do not select the same event type twice in a row. For any six events, try to include each event type at least once.*
+
+
+**Visitor**  
+The visitor may be welcome, expected, or undesired. How does your keeper's meeting with them go? How do they interact with the community and how are you involved? Choose from the list below or roll a D6 and select an element from the corresponding number.
+
+1. Vendor: an established trader or passing journeyman bringing news and goods
+2. Entertainer: visiting performers, fortune tellers, or charlitans
+3. Educator: a new teacher, scientist, or researcher
+4. Tourist: a traveler, authority, or friend from outside the community, or a wandering lost sheep
+5. Dissident: someone who threatens established authority
+6. Seeker: an adventurer, romantic, or other lost soul
 
 
 **Crisis**  
@@ -145,16 +237,6 @@ The crisis may be an internal or external threat. How does your keeper use you t
 4. Unseenn: something invisible, like a pathogen or a dangerous idea
 5. Insidious: a new craze or a fast-spreading plant or animal species
 6. Threat: challenge to your keeper's authority or necessity, such as a new shepherd, a rival for their position, or their protege surpassing them
-
-**Visitor**  
-The visitor may be welcome, expected, or undesired. How does your keeper's meeting with them go? How do they interact with the community and how are you involved? Choose from the list below or roll a D6 and select an element from the corresponding number.
-
-1. Vendor: an established trader or passing journeyman bringing news and goods
-2. Entertainer: visiting performers, fortune tellers, or charlitans
-3. Educator: a new teacher, scientist, or researcher
-4. Tourist: a traveler, authority, or friend from outside the community, or a wandering lost sheep
-5. Dissident: someone who threatens established authority
-6. Seeker: an adventurer, romantic, or other lost soul
 
 **Pastoral care**  
 Pastoral care is important for any shepherd and can take many forms. What are your and your keeper's roles in different aspects of pastoral care? How do you both feel about it? Are there specific traditions associated with them? Choose from the list below or roll a D6 and select an element from the corresponding number.
@@ -176,22 +258,31 @@ Sometimes, nothing of particular interest happens. Take some time to describe on
 5. Foods: the most and least popular, how agriculture and markets work
 6. Arts: clothes, hobbies, entertainment
 
+\pagebreak
+
+$~$
+
+
 # Rest
 
 After your final event with your keeper, describe how you were parted from them. If you need ideas, choose from the list below or roll a D6 and select an element from the corresponding number.
 
 1. Your keeper died and left you to a relative or protege. Did you end up with the intended recipient?
 2. Your keeper passed you on to someone else. Why did they give you away? Who did they give you to?
-3. Your keeper sold you or auctioned you off. How did you feel about being sold? Did your keeper want to sell you?
+3. Your keeper sold you or auctioned you off. Did your keeper want to sell you? How did you feel about it? 
 4. You were stolen. Was the theft violent? Were you stolen by someone your keeper trusted?
-5. You were lost. Were you traveling? Was your keeper careless? How were you found again?
-6. You were placed in storage or catalogued and placed on display. Why were you set aside? How were you returned to service?
+5. You were lost. Were you traveling? Was your keeper careless? How were you found?
+6. You were catalogued and placed in storage or on display. Why were you set aside? How were you returned to service?
 
 Change your identity in a major way (appearance, purpose, trait, or name, or some combination thereof) or change an important aspect of your world. Decide how long you will be dormant between keepers. Minutes? Weeks? Years? Centuries? 
 
 Close your eyes and sit in silence for one to five minutes depending on the length of your dormancy. Take a break and do something else, or wait until the next day, before you return to the keeper list to select a new keeper.
 
 
+
+\pagebreak
+
+$~$
 
 # An ending of sorts
 
